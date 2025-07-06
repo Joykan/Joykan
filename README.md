@@ -1,92 +1,76 @@
-# 👋 Hi, I’m Joykan!
+<h1 align="center">Hey there 👋, I'm Joykan</h1>
 
-### 🚀 About Me
-I am passionate about building innovative solutions at the intersection of **Artificial Intelligence**, **Cybersecurity**, **Mobile App Development**, and **Software Development**. My mission is to create impactful software that is secure, scalable, and user-friendly.
-
----
-
-### 🛠️ Skills & Interests
-
-- **Artificial Intelligence:**  
-  Machine learning, deep learning, natural language processing, AI model deployment
-
-- **Cybersecurity:**  
-  Threat detection, secure coding, vulnerability assessment, penetration testing
-
-- **Mobile App Development:**  
-  Android & iOS development, cross-platform frameworks (Flutter, React Native), UI/UX design
-
-- **Software Development:**  
-  Full-stack development, RESTful APIs, cloud deployment, agile methodologies
+<p align="center">
+  🎓 IT Student @ Maseno University • 💻 Software & Mobile Developer • 🛡️ Cybersecurity Learner • 🤖 AI Enthusiast <br>
+  <a href="mailto:joykandie7@gmail.com">📧 Email</a> •
+  <a href="https://ke.linkedin.com/in/joy-kandie-081235262">💼 LinkedIn</a> •
+  <a href="https://github.com/Joykan">🐙 GitHub</a>
+</p>
 
 ---
 
-### 📈 Featured Projects
+### 🌟 About Me
 
-- [**CIS-221**](https://github.com/Joykan/CIS-221)  
-  Coursework and projects relating to computer information systems.
+I'm Joy Kandie Jepkorir, a creative and passionate BSc IT student at Maseno University. I love creating tech that’s practical, secure, and fun — from campus cafeteria apps to AI experiments.
 
-- [**simple_shell**](https://github.com/Joykan/simple_shell)  
-  A simple Unix shell implementation in C.
+My passion lies at the intersection of **web development**, **mobile innovation**, **cybersecurity**, and **intelligent systems** that solve real problems with a local touch.
 
-- [**alx-low_level_programming**](https://github.com/Joykan/alx-low_level_programming)  
-  Projects and algorithms in C, focusing on low-level programming concepts.
+---
 
-- [**se-day1-assignment-Joykan**](https://github.com/Powerlearnproject/se-day1-assignment-Joykan)  
-  Day 1 assignment for the Power Learn Project.
+### 🎓 Education
 
-- [**se-day3-assignment-Joykan**](https://github.com/Powerlearnproject/se-day3-assignment-Joykan)  
-  Day 3 assignment for the Power Learn Project.
+- **Maseno University**  
+  *Bachelor of Science in Information Technology* | 2022 – Present  
+  Focus areas: Web & Mobile Development, Cybersecurity, AI, Databases
 
-- [**se-day4-assignment-Joykan**](https://github.com/Powerlearnproject/se-day4-assignment-Joykan)  
-  Day 4 assignment for the Power Learn Project.
+---
 
-- [**se-day5-assignment-Joykan**](https://github.com/Powerlearnproject/se-day5-assignment-Joykan)  
-  Day 5 assignment for the Power Learn Project.
+### 💻 Tech Stack
 
-- [**SimpleCalculatorApp**](https://github.com/Joykan/SimpleCalculatorApp)  
-  A basic calculator application.
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5" />
+  <img src="https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3" />
+  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php" />
+  <img src="https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql" />
+  <img src="https://img.shields.io/badge/-Java-red?style=flat-square&logo=java" />
+  <img src="https://img.shields.io/badge/-Python-green?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
+</p>
 
-- [**masenocafeteria-main**](https://github.com/Joykan/masenocafeteria-main)  
-  Project related to cafeteria management.
+---
 
-- [**Python-**](https://github.com/Joykan/Python-)  
-  Python projects and scripts.
+### 🚀 Projects
+
+- 🍽️ [**Maseno Cafeteria System**](https://github.com/Joykan/masenocafeteria-main) – MPESA-powered campus meal ordering platform  
+- 🔧 [**Simple Shell (C)**](https://github.com/Joykan/simple_shell) – Custom Unix shell written in C for ALX project  
+- 📱 [**Simple Calculator App**](https://github.com/Joykan/SimpleCalculatorApp) – Android app built with Java  
+- 🧠 [**Low-Level Programming**](https://github.com/Joykan/alx-low_level_programming) – C programming challenges and data structures  
+- 🐍 [**Python Scripts**](https://github.com/Joykan/Python-) – Personal Python mini projects  
+- 💡 [**Power Learn Project Assignments**](https://github.com/Powerlearnproject) – Software engineering training contributions
 
 ---
 
 ### 🌱 Currently Learning
-- Advanced AI model optimization
-- Cloud security best practices
-- New mobile frameworks
+
+- Advanced AI model tuning  
+- Cloud hosting & Firebase  
+- React with Tailwind  
+- Secure API development
 
 ---
 
-### 📫 Connect with Me
+### 📊 GitHub Stats
 
-- 📧 Email: [joykandie7@gmail.com](mailto:joykandie7@gmail.com)  
-- 🔗 LinkedIn: [Joy Kandie](https://ke.linkedin.com/in/joy-kandie-081235262)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Joykan&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joykan&layout=compact&theme=radical" width="48%" />
+</p>
 
 ---
 
 ### ✨ Fun Fact
-I love blending technology with creativity, and I’m always open to collaboration!
 
----
+I believe every Kenyan app should come with flavor — from tilapia 🐟 to tech 💻. If you want to collab, vibe, or le
 
-
-
-<!--
-**Joykan/Joykan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
