@@ -20,7 +20,7 @@
 
 ### 🧠 About Me
 
-I'm **Joy Kandie (Candy)**, a creative technologist and final-year BSc IT student at **Maseno University** (School of Computing & Informatics).
+I'm **Joy Kandie **, a creative technologist and final-year BSc IT student at **Maseno University** (School of Computing & Informatics).
 
 I build **secure, practical, and impactful** tech solutions — from full-stack web platforms to AI-powered apps and cybersecurity tools. Currently completing a **cybersecurity internship at Decode Labs**, and running my own venture, **Armor Cyber**, focused on cybersecurity and printing services.
 
