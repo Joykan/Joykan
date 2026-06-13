@@ -1,11 +1,11 @@
 <h1 align="center">Hey there 👋, I'm Joy Kandie</h1>
 
 <p align="center">
-  🎓 IT Student @ Maseno University • 💻 Web & Mobile Developer • 🛡️ Cybersecurity Learner • 🤖 AI & ML Enthusiast <br>
-  <a href="mailto:joykandie7@gmail.com">📧 Email</a> •
+  🎓 Final-Year IT Student @ Maseno University • 💻 Full-Stack Developer • 🛡️ Cybersecurity Intern @ Decode Labs • 🤖 AI/ML Enthusiast <br>
+  <a href="mailto:joykandie07@gmail.com">📧 Email</a> •
   <a href="https://ke.linkedin.com/in/joy-kandie-081235262">💼 LinkedIn</a> •
   <a href="https://github.com/Joykan">🐙 GitHub</a> •
-  <a href="mailto:joykandie7@gmail.com" target="_blank">
+  <a href="mailto:joykandie07@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Hire%20Me-Contact-orange?style=flat-square&logo=gmail" />
   </a>
 </p>
@@ -19,22 +19,34 @@
 ---
 
 ### 🧠 About Me
-I'm **Joy Kandie**, a creative technologist and BSc IT student at **Maseno University**.  
-I build **secure, practical, and aesthetic** tech solutions — from full-stack web apps to cybersecurity tools.  
-Also exploring AI models and ethical hacking — because why pick one lane when you can master both?
+
+I'm **Joy Kandie (Candy)**, a creative technologist and final-year BSc IT student at **Maseno University** (School of Computing & Informatics).
+
+I build **secure, practical, and impactful** tech solutions — from full-stack web platforms to AI-powered apps and cybersecurity tools. Currently completing a **cybersecurity internship at Decode Labs**, and running my own venture, **Armor Cyber**, focused on cybersecurity and printing services.
 
 ---
 
 ### 🎓 Education
-- **Maseno University**  
-  *BSc in Information Technology | 2022 – Present*  
-  Focus Areas: Software Development, Cybersecurity, AI, Web & Mobile Apps  
+
+- **Maseno University**
+  *BSc in Information Technology | 2022 – 2026 (Expected Graduation: September 2026)*
+  Reg. No. CIT/00039/022 | Focus Areas: Software Development, Cybersecurity, AI, Web & Mobile Apps
+
+---
+
+### 💼 Currently
+
+- 🛡️ Cybersecurity Intern @ **Decode Labs** (Remote)
+- 🛠️ Building **Armor Cyber** — a cybersecurity & printing services venture
+- 🏆 Building for the **AfriVoices ASR Hackathon 2026** — speech recognition for East African languages using Whisper + HuggingFace
+- 📜 Completing **WorldQuant University's Deep Learning Fundamentals Lab**
 
 ---
 
 ### 💻 Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,java,python,react,nodejs,firebase,git,bootstrap,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,postgres,flutter,dart,firebase,git,figma,vscode,linux,py,java" />
 </p>
 
 ---
@@ -42,20 +54,27 @@ Also exploring AI models and ethical hacking — because why pick one lane when 
 ### 🚀 Featured Projects
 
 #### 🧩 [MindQuest](https://github.com/Joykan/MindQuest)
-> A **gamified mental health chatbot** powered by AI.  
-Helps users check in on their emotions and earn wellness “XP” for reflection and positivity.  
-Tech: React + Express + Groq API + Tailwind CSS  
-*(Currently under development — soon to be deployed!)*
+> A bilingual (English/Kiswahili) **gamified AI mental wellness app** — my final-year capstone project (v2.0.0 released).
+Helps users check in on their emotions, build healthy habits, and earn wellness "XP" for reflection and positivity.
+**Tech:** Flutter + Supabase + Groq API (LLaMA 3.1) + Riverpod + Hive
+🌐 [Live Web App](https://github.com/Joykan/MindQuest) | 📱 APK available on GitHub Releases
+
+#### 🌦️ [ShambaSmart](https://github.com/Joykan)
+> A **farm weather advisory app** for Kenyan farmers, providing localized forecasts and actionable agricultural insights.
+**Tech:** React + Vite + Node.js | Deployed on Vercel & Render
+
+#### 🛵 [PuffVibe](https://github.com/Joykan)
+> A **campus delivery platform** with full M-Pesa Daraja STK Push integration and an admin dashboard.
+**Tech:** React + Node.js + MongoDB | Deployed on Vercel & Render
 
 #### 🍽️ [Maseno Cafeteria System](https://github.com/Joykan/masenocafeteria-main)
-> Campus meal ordering platform with MPESA payment integration.  
-Built for students, with a focus on UI/UX and local cuisine.
+> Campus meal ordering platform with M-Pesa payment integration, built with a focus on UI/UX and local cuisine.
 
 #### 🧮 [Simple Calculator App](https://github.com/Joykan/SimpleCalculatorApp)
 > Android calculator built in Java — smooth UI, precise functions.
 
 #### 💻 [Simple Shell](https://github.com/Joykan/simple_shell)
-> Custom Unix shell developed in C for ALX Software Engineering training.  
+> Custom Unix shell developed in C for ALX Software Engineering training.
 
 #### 🐍 [Python Scripts](https://github.com/Joykan/Python-)
 > A growing collection of small Python projects, tools, and automation scripts.
@@ -63,23 +82,27 @@ Built for students, with a focus on UI/UX and local cuisine.
 ---
 
 ### 🔐 Cyber Journey
-Currently training on:
-- [TryHackMe](https://tryhackme.com/) — learning network, web, and system exploitation  
-- [Hack The Box](https://www.hackthebox.com/) — solving real-world pentesting labs  
+
+Currently applying skills through my **Decode Labs cybersecurity internship** and **Armor Cyber** venture, with a foundation in:
+- Cisco NetAcad — CCNA & Cyber Threat Management
+- [TryHackMe](https://tryhackme.com/) — network, web, and system exploitation
+- [Hack The Box](https://www.hackthebox.com/) — real-world pentesting labs
 
 Goal: Become a **Red Team–fluent software developer** — the one who codes securely *and* breaks ethically 😎.
 
 ---
 
 ### 🧠 Currently Learning
-- React + Tailwind CSS  
-- API Security & JWT  
-- Firebase & Full Stack Deployment  
+
+- Speech Recognition (Whisper, HuggingFace) for African languages
+- Deep Learning Fundamentals (WorldQuant University)
+- Advanced API Security & JWT
 - Penetration Testing (TryHackMe + HTB)
 
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Joykan&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joykan&layout=compact&theme=radical" width="48%" />
@@ -88,9 +111,10 @@ Goal: Become a **Red Team–fluent software developer** — the one who codes se
 ---
 
 ### ⚡ Fun Fact
-I believe every Kenyan solution deserves *flavor* — from **code** to **tilapia** 😄  
-Let’s collab, learn, and build something bold and meaningful.  
+
+I believe every Kenyan solution deserves *flavor* — from **code** to **tilapia** 😄
+Let's collab, learn, and build something bold and meaningful.
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F70000&center=true&vCenter=true&width=480&lines=Cyber+Secure.+Code+Smart.+Deploy+Confidently+💥;Hire+me+before+someone+else+does+😎" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F70000&center=true&vCenter=true&width=480&lines=Cyber+Secure.+Code+Smart.+Deploy+Confidently+%F0%9F%92%A5;Hire+me+before+someone+else+does+%F0%9F%98%8E" />
 </p>
