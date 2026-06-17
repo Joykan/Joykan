@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Joy Kandie</h1>
 
 <p align="center">
-  🎓 Final-Year IT Student @ Maseno University • 💻 Full-Stack Developer • 🛡️ Cybersecurity Intern @ Decode Labs • 🤖 AI/ML Enthusiast <br>
+  🎓 Final-Year IT Student @ Maseno University • 💻 Full-Stack Developer • 🛡️ Cybersecurity • 🤖 AI/ML Enthusiast <br>
   <a href="mailto:joykandie07@gmail.com">📧 Email</a> •
   <a href="https://ke.linkedin.com/in/joy-kandie-081235262">💼 LinkedIn</a> •
   <a href="https://github.com/Joykan">🐙 GitHub</a> •
@@ -20,28 +20,17 @@
 
 ### 🧠 About Me
 
-I'm **Joy Kandie **, a creative technologist and final-year BSc IT student at **Maseno University** (School of Computing & Informatics).
+I'm Joy Kandie , a creative technologist and final-year BSc IT student at Maseno University (School of Computing & Informatics).
 
-I build **secure, practical, and impactful** tech solutions — from full-stack web platforms to AI-powered apps and cybersecurity tools. Currently completing a **cybersecurity internship at Decode Labs**, and running my own venture, **Armor Cyber**, focused on cybersecurity and printing services.
+I build secure, practical and impactful tech solutions — from full-stack web platforms to AI-powered apps and cybersecurity tools.
 
 ---
 
 ### 🎓 Education
 
 - **Maseno University**
-  *BSc in Information Technology | 2022 – 2026 (Expected Graduation: September 2026)*
+  *BSc in Information Technology | 2022 – 2026 (Expected Graduation: November 2026)*
   Reg. No. CIT/00039/022 | Focus Areas: Software Development, Cybersecurity, AI, Web & Mobile Apps
-
----
-
-### 💼 Currently
-
-- 🛡️ Cybersecurity Intern @ **Decode Labs** (Remote)
-- 🛠️ Building **Armor Cyber** — a cybersecurity & printing services venture
-- 🏆 Building for the **AfriVoices ASR Hackathon 2026** — speech recognition for East African languages using Whisper + HuggingFace
-- 📜 Completing **WorldQuant University's Deep Learning Fundamentals Lab**
-
----
 
 ### 💻 Tech Stack
 
